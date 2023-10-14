@@ -14,6 +14,7 @@ local someTable = {
 "moon_quay",
 "waterlogged",
 "wormwolfwood",
+"host_of_horrors",
 
 --Character Menue Music
 "menuscreen_maxwell",
@@ -78,6 +79,25 @@ local someTable = {
 "DAYWALKER",
 "TOAD",
 
+--Shipwrecked Music
+"menuscreen_sw",
+"surfing_day",
+"surfing_night",
+"surfing_walani_day", 
+"surfing_walani_night",
+"work_mild",
+"work_hurricane",
+"work_monsoon",
+"work_volcano",
+"fight_mild",
+"fight_hurricane",
+"fight_monsoon",
+"fight_volcano",
+"EFS_mild", 
+"EFS_hurricane",
+"EFS_monsoon",
+"EFS_volcano",
+
 --Hamlet Music
 "menuscreen_hamlet",
 "aporkalyspe_EFS_ancient",
@@ -91,6 +111,7 @@ local someTable = {
 "h_ruins_temperate",
 "h_ruins_humid",
 "h_ruins_lush",
+"rainforest_temperate",
 "rainforest_humid",
 "rainforest_lush", 
 "working_temperate", 
